@@ -40,7 +40,7 @@ El conversor soporta las siguientes monedas:
 ## Configuración del Proyecto
 
 1. Clona el repositorio en tu máquina local:
-    git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+    git clone https://github.com/AmericusGar/Conversor-de-monedas.git
     cd nombre-del-repositorio
 
 2. Agrega la librería Gson a tu proyecto. Descarga el archivo `gson-2.8.6.jar` y colócalo en el directorio `libs`.
