@@ -1,4 +1,4 @@
-<img width="376" alt="image" src="https://github.com/AmericusGar/Conversor-de-monedas/assets/85145783/b801d18d-5679-4545-9c94-b604066d5994"># Conversor de Monedas
+# Conversor de Monedas
 
 Este proyecto es un conversor de monedas basado en Java que permite a los usuarios convertir entre varias monedas de Latinoamérica. Utiliza una API de tasas de cambio para obtener las tasas de conversión en tiempo real.
 
@@ -62,9 +62,11 @@ El conversor soporta las siguientes monedas:
     ```
 
 4. Sigue las instrucciones en la terminal para seleccionar las monedas y realizar conversiones.
+5. 
+   <img width="300" alt="image" src="https://github.com/AmericusGar/Conversor-de-monedas/assets/85145783/b801d18d-5679-4545-9c94-b604066d5994">
 
-5. Video de ejemplo
-   [![Video de ejemplo](https://youtu.be/XHYztUKjvBc?si=Ha_vDfATBHkvW5VO)
+6. Video de ejemplo
+   [![Video de ejemplo](https://img.youtube.com/vi/ID_DEL_VIDEO/hqdefault.jpg)(https://youtu.be/XHYztUKjvBc?si=Ha_vDfATBHkvW5VO)
 
    
 
